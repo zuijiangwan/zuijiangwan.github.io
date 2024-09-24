@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: 丁禾妤
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Ding Heyu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Heyu
+last_name: Ding
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 💖
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,12 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Undergraduate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: University of Science and Technology of China
+    url: https://ustc.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -142,12 +142,10 @@ skills:
         icon: camera
 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
+    percent: 100
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
