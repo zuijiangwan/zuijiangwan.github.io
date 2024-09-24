@@ -3,7 +3,7 @@
 title: 丁 禾 妤
 
 # Name pronunciation (optional)
-name_pronunciation: Ding Heyu
+name_pronunciation: Ding He Yu
 
 # Full name (for SEO)
 first_name: Heyu
@@ -31,7 +31,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'dhy1379372633@mail.ustc.edu.cn'
+    url: https://dhy1379372633@mail.ustc.edu.cn
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/zuijiangwan
