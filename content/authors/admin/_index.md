@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 丁禾妤
+title: 丁 禾 妤
 
 # Name pronunciation (optional)
 name_pronunciation: Ding Heyu
