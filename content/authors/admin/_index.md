@@ -25,20 +25,16 @@ role: Undergraduate
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: University of Science and Technology of China
-    url: https://ustc.edu.cn/
+    url: https://pplab.ustc.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'dhy1379372633@mail.ustc.edu.cn'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/zuijiangwan
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
@@ -48,8 +44,8 @@ profiles:
 
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Embedded System
+  - AI Computing System
 
 education:
   - area: PhD Artificial Intelligence
@@ -181,4 +177,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Heyu Ding is an undergraduate of computer science at the Precise Pervasive Lab, University of Science and Technology of China. Her research interests include embedded system, AI computing system and computer vision. 
