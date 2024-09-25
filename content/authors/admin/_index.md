@@ -52,19 +52,6 @@ education:
     institution: University of Science and Technology of China
     date_start: 2021-09-01
     date_end: 2025-06-31
-    summary: |
-      GPA: 3.54/4.3
-
-      Courses included:
-      - Data Structures
-      - Computer Organization
-      - Operating System
-      - Computer Networks
-      - Principles and Techniques of Compiler
-      - Foundations of Algorithms
-      - Comprehensive Experiment Of Computing System
-      - Fundamental of Artificial Intelligence
-      - An Introduction to Database System
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -72,7 +59,6 @@ education:
     institution: University of Science and Technology of China
     date_start: 2025-09-01
     date_end: 2020-12-31
-
 
 
 # Skills
