@@ -58,7 +58,7 @@ education:
   - area: Master Computer Science
     institution: University of Science and Technology of China
     date_start: 2025-09-01
-    date_end: 2020-12-31
+    date_end: 2028-12-31
 
 
 # Skills
